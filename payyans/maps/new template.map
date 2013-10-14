@@ -1,16 +1,10 @@
-#Banglapedia Font map for Payyans
-#http://download.savannah.gnu.org/releases/smc/payyans
-#Copyright 2009 Zyxware (www.zyxware.com)
-#Copyright 2008 SMC (www.smc.org.in)
-#Licensed under GPLv3
-#Contact smc-discuss@googlegroups.com for bug reports for maping jayantanth@gmail.com 
 !=!
 "=-
 #=#
 $=৳
 %=%
-&=্
-'=র্
+&=
+'=
 (=(
 )=)
 *=*
@@ -36,27 +30,27 @@ $=৳
 >=>
 ?=?
 @=@
-A=অ
-B=ই
-C=ঈ
-D=উ
-E=ঊ
-F=ঋ
-G=ে
-H=ঐ
-I=ও
-J=ঔ
-K=ক
-L=খ
-M=গ
-N=ঘ
-O=ঙ
-P=চ
-Q=ছ
-R=জ
-S=ঝ
-T=ঞ
-U=ট
+A=
+B=
+C=
+D=
+E=
+F=
+G=
+H=
+I=
+J=
+K=
+L=
+M=
+N=
+O=
+P=
+Q=
+R=
+S=
+T=
+U=
 V=ঠ
 W=ড
 X=ঢ

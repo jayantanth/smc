@@ -194,7 +194,7 @@ class Payyan:
          ta_prebases = []
          te_prebases = []
          kn_prebases = []
-         bn_prebases = []
+         bn_prebases = ["ি","ে","ৈ"]
          or_prebases = []
          pa_prebases = []
          if( (unicode_letter  in ml_prebases)
